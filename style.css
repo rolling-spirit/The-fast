@@ -1,0 +1,18 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#BdayCanvas{
+border-width:10px ;
+background-color: ghostwhite;
+border-style: groove;
+border-color: palevioletred;
+}
+
+canvas{
+    background-image:url(BirthdayImage.jpg);  
+}
+
+
